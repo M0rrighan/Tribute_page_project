@@ -1,0 +1,157 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background-color: white;
+    line-height: 1.8;
+    color: black;
+  }
+  
+  a {
+    text-decoration: underline;
+  }
+  
+  #container {
+    max-width: 1450px;
+    margin: 0 auto;
+    background-color: lightgray;
+    padding: 20px;
+  }
+  
+  #wrapper {
+    max-width: 1450px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 20px;
+  }
+  
+  #wrapper img {
+    display: block;
+    width: 70%;
+    margin: auto;
+    padding-bottom: 10px;
+  }
+  
+  .space-l {
+    padding: 20px;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  ul {
+    list-style-type: disc;
+    width: 40%;
+    margin: auto;
+  }
+  
+  ul li {
+    padding: 7px;
+  }
+  
+  .headingSecondary {
+    font-size: 20px;
+    text-align: center;
+    padding: 20px 0px 20px 0px;
+  }
+  
+  footer p {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px 0;
+  }
+  blockquote {
+    text-align: justify;
+    padding: 20px;
+    margin: auto;
+    font-style: italic;
+    width: 45%;
+  }
+  blockquote p {
+    padding: 15px;
+  }
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background-color: white;
+    line-height: 1.8;
+    color: black;
+  }
+  
+  a {
+    text-decoration: underline;
+  }
+  
+  #container {
+    max-width: 1450px;
+    margin: 0 auto;
+    background-color: lightgray;
+    padding: 20px;
+  }
+  
+  #wrapper {
+    max-width: 1450px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 20px;
+  }
+  
+  #wrapper img {
+    display: block;
+    width: 70%;
+    margin: auto;
+    padding-bottom: 10px;
+  }
+  
+  .space-l {
+    padding: 20px;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  ul {
+    list-style-type: disc;
+    width: 40%;
+    margin: auto;
+  }
+  
+  ul li {
+    padding: 7px;
+  }
+  
+  .headingSecondary {
+    font-size: 20px;
+    text-align: center;
+    padding: 20px 0px 20px 0px;
+  }
+  
+  footer p {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px 0;
+  }
+  blockquote {
+    text-align: justify;
+    padding: 20px;
+    margin: auto;
+    font-style: italic;
+    width: 45%;
+  }
+  blockquote p {
+    padding: 15px;
+  }
+    
